@@ -4,7 +4,7 @@ goto a;
 echo "Hello World" . PHP_EOL;
 
 a:
-echo "Hello A" . PHP_EOL;
+echo "Hello Another" . PHP_EOL;
 
 $counter = 1;
 
